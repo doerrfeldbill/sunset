@@ -3,6 +3,8 @@ sunset is a super simple website that uses open data APIs to display sunset time
 I built it to demo an introductory lesson on practical API use cases. 
 This is a personal project and not intended for commercial use. [View it here](https://doerrfeldbill.github.io/sunset/).
 
+![](https://github.com/doerrfeldbill/sunset/blob/master/SUNSET-PREVIEW.png?raw=true)
+
 ## About
 This website demonstrates how to use simple HTTP GET calls to open data APIs. 
 First, the code calls the [GeoIPLookup.io](GeoIPLookup.io) API to return lattitude and longitude coordinates based on the caller's IP address.
