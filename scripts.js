@@ -7,7 +7,7 @@
     //save coordinates as variables
     var lat = IPresult.latitude
     var long = IPresult.longitude
-  //  document.getElementById("GPS").innerHTML = "latitude: " + lat + " longitude: " + long;
+  //un-comment to display coordinates:  document.getElementById("GPS").innerHTML = "latitude: " + lat + " longitude: " + long;
 
 //Make request to Sunrise-Sunset API to find sunset time
     let request = new XMLHttpRequest();
@@ -52,9 +52,3 @@
     request.send();
   }
   IPrequest.send();
-
-
-
-
-
-//}
