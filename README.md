@@ -16,5 +16,5 @@ Code is not elegant, it's just for sample purposes.
 All credit to Sandy, who asked me to make a website that told her when the sun was setting. 
 **If you use this site you must enjoy a sunset while sipping on a drink.**
 
-##Blog Post
+## Blog Post
 I'm writing a blog post about this! Stay tuned. 
