@@ -1,7 +1,7 @@
 # sunset
 sunset is a super simple website that uses open data APIs to display sunset time in your local timezone. 
 I built it to demo an introductory lesson on practical API use cases. 
-This is a personal project and not intended for commercial use.
+This is a personal project and not intended for commercial use. [View it here](https://doerrfeldbill.github.io/sunset/).
 
 ## About
 This website demonstrates how to use simple HTTP GET calls to open data APIs. 
