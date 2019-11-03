@@ -46,7 +46,7 @@
    }
 
    document.getElementById("time").innerHTML = time
-   document.getElementById("sunset").innerHTML = "in local time:"
+   document.getElementById("sunset").innerHTML = "in your local time:"
 
     }
     request.send();
