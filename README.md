@@ -1,4 +1,4 @@
-# sunset
+# sunset 🌇
 **sunset** is a super simple website that uses open data APIs to display the sunset time in your local timezone. 
 I built it to demo an introductory lesson on practical API use cases. 
 This is a personal project and not intended for commercial use. [View it here](https://doerrfeldbill.github.io/sunset/).
