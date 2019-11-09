@@ -3,7 +3,7 @@
 I built it to demo an introductory lesson on practical API use cases. 
 This is a personal project and not intended for commercial use. [View it here](https://doerrfeldbill.github.io/sunset/).
 
-![](https://github.com/doerrfeldbill/sunset/blob/master/SUNSET-PREVIEW.png?raw=true)
+![](https://github.com/doerrfeldbill/sunset/blob/master/sunset-preview.png)
 
 ## About
 **sunset** demonstrates how to use simple HTTP GET calls to open data APIs. 
